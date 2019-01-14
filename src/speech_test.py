@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Copyright (c) 2013-2018 Hanson Robotics, Ltd.
 import rospy
 from basic_head_api.srv import ValidFaceExprs
 from basic_head_api.msg import MakeFaceExpr, PointHead
